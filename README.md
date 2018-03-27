@@ -1,3 +1,4 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/aawadall/Angular-sandbox?branch=master)](https://bettercodehub.com/)
 # AngularTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
